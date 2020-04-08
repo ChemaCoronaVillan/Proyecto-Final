@@ -1,0 +1,3 @@
+SHA256(CentOS - Ansible - Controlador.ovf)= 6e02df8e9610e8b18468dc6549bdc2cff0a30acde1bf42ea94be0d72561d9820
+SHA256(CentOS_-_Ansible_-_Controlador-file1.iso)= 3ee3f4ea1538e026fff763e2b284a6f20b259d91d1ad5688f5783a67d279423b
+SHA256(CentOS_-_Ansible_-_Controlador-disk1.vmdk)= 5bfbb689ea0d25ef396074c780a076d60ae6641948afcf114b8265a6b31051e9
