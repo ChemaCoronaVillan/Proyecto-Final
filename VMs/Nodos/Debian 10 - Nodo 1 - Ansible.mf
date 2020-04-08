@@ -1,0 +1,3 @@
+SHA256(Debian 10 - Nodo 1 - Ansible.ovf)= 652f4be311d2e750d635161b03b6e68c88f1318c5710b4d3a19e6b7f5099390b
+SHA256(Debian_10_-_Nodo_1_-_Ansible-file1.iso)= 883d0ca91d2f21ce0a0e0e481f97bf73d50a0232f467e5200aaea79849fc74fd
+SHA256(Debian_10_-_Nodo_1_-_Ansible-disk1.vmdk)= 3097bfef33450013f220de14562d9128eea14b9fce849aafa7f84aaca6fba7bc
